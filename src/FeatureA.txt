@@ -1,1 +1,1 @@
-"Modifica del FeatureA" 
+"Modifica FeatureA" 
