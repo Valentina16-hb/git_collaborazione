@@ -1,1 +1,1 @@
-"Rimodifico perch‚ mi va DAJE" 
+"Rimodifico daje" 
